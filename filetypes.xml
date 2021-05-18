@@ -4,10 +4,8 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="kotlin" type="Kotlin" />
-      <removed_mapping ext="kt" type="Kotlin" />
       <mapping pattern="pre-push" type="PLAIN_TEXT" />
       <mapping pattern="AppJenkinsfile" type="PLAIN_TEXT" />
-      <mapping ext="kt" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
