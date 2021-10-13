@@ -146,6 +146,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.config">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="de.victorsaar.intellij.aem" />
+              <option name="myPluginName" value="AEM Support" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.dcx">
           <value>
             <plugin>
@@ -687,6 +695,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.name">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="de.victorsaar.intellij.aem" />
+              <option name="myPluginName" value="de.victorsaar.intellij.aem" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.odt">
           <value>
             <plugin>
@@ -1035,6 +1051,14 @@
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.vlt">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="de.victorsaar.intellij.aem" />
+              <option name="myPluginName" value="AEM Support" />
             </plugin>
           </value>
         </entry>
