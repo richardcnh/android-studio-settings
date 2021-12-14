@@ -1,13 +1,13 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="pre-push" type="PLAIN_TEXT" />
       <mapping pattern="JenkinsfileForAppBundle" type="logback" />
       <mapping pattern="JenkinsfileForCompile" type="logback" />
       <mapping pattern="AppJenkinsfile" type="logback" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="md" approved="true" type="AUTO_DETECTED" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping pattern="AppJenkinsfile" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="JenkinsfileForAppBundle" approved="true" type="Groovy" />
