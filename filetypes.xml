@@ -1,8 +1,9 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <removed_mapping ext="klib" type="ARCHIVE" />
+      <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="PlannerJenkinsfile" type="AUTO_DETECTED" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="pre-push" type="PLAIN_TEXT" />
       <mapping pattern="JenkinsfileForAppBundle" type="logback" />
       <mapping pattern="JenkinsfileForCompile" type="logback" />
