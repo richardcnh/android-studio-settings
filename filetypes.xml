@@ -1,8 +1,8 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="PlannerJenkinsfile" type="AUTO_DETECTED" />
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="pre-push" type="PLAIN_TEXT" />
       <mapping pattern="JenkinsfileForAppBundle" type="logback" />
