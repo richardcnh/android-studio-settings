@@ -8,9 +8,9 @@
             <value value="R5CR70QC7BM" />
           </Key>
         </key>
-        <name value="samsung SM-G9910" />
-        <target value="Android 12.0" />
-        <api value="31" />
+        <name value="Device" />
+        <target value="Android 1.0" />
+        <api value="1" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
