@@ -8,4 +8,11 @@
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="CONSOLE" />
   </component>
+  <component name="InlayHintsSettings">
+    <option name="disabledHintProviderIds">
+      <set>
+        <option value="kotlin.KotlinLambdasHintsProvider" />
+      </set>
+    </option>
+  </component>
 </application>
