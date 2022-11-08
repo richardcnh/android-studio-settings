@@ -5,6 +5,7 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="pre-push" type="PLAIN_TEXT" />
+      <mapping pattern="JenkinsfileForApk" type="gdsl" />
       <mapping pattern="JenkinsfileForAppBundle" type="logback" />
       <mapping pattern="JenkinsfileForCompile" type="logback" />
       <mapping pattern="AppJenkinsfile" type="logback" />
